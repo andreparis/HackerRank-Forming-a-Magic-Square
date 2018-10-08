@@ -1,0 +1,11 @@
+D:\users\ttm.arparis\Desktop\HackerRank\C#\Forming a Magic Square\Forming a Magic Square\bin\Debug\netcoreapp2.1\Forming a Magic Square.deps.json
+D:\users\ttm.arparis\Desktop\HackerRank\C#\Forming a Magic Square\Forming a Magic Square\bin\Debug\netcoreapp2.1\Forming a Magic Square.runtimeconfig.json
+D:\users\ttm.arparis\Desktop\HackerRank\C#\Forming a Magic Square\Forming a Magic Square\bin\Debug\netcoreapp2.1\Forming a Magic Square.runtimeconfig.dev.json
+D:\users\ttm.arparis\Desktop\HackerRank\C#\Forming a Magic Square\Forming a Magic Square\bin\Debug\netcoreapp2.1\Forming a Magic Square.dll
+D:\users\ttm.arparis\Desktop\HackerRank\C#\Forming a Magic Square\Forming a Magic Square\bin\Debug\netcoreapp2.1\Forming a Magic Square.pdb
+D:\users\ttm.arparis\Desktop\HackerRank\C#\Forming a Magic Square\Forming a Magic Square\obj\Debug\netcoreapp2.1\Forming a Magic Square.csprojAssemblyReference.cache
+D:\users\ttm.arparis\Desktop\HackerRank\C#\Forming a Magic Square\Forming a Magic Square\obj\Debug\netcoreapp2.1\Forming a Magic Square.csproj.CoreCompileInputs.cache
+D:\users\ttm.arparis\Desktop\HackerRank\C#\Forming a Magic Square\Forming a Magic Square\obj\Debug\netcoreapp2.1\Forming a Magic Square.AssemblyInfoInputs.cache
+D:\users\ttm.arparis\Desktop\HackerRank\C#\Forming a Magic Square\Forming a Magic Square\obj\Debug\netcoreapp2.1\Forming a Magic Square.AssemblyInfo.cs
+D:\users\ttm.arparis\Desktop\HackerRank\C#\Forming a Magic Square\Forming a Magic Square\obj\Debug\netcoreapp2.1\Forming a Magic Square.dll
+D:\users\ttm.arparis\Desktop\HackerRank\C#\Forming a Magic Square\Forming a Magic Square\obj\Debug\netcoreapp2.1\Forming a Magic Square.pdb
